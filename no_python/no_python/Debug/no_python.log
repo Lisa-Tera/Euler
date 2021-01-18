@@ -1,0 +1,4 @@
+﻿  euler_45.c
+c:\python\euler\no_python\no_python\euler_45.c(11): warning C4047: '함수': 'const char *const '의 간접 참조 수준이 'long'과(와) 다릅니다.
+c:\python\euler\no_python\no_python\euler_45.c(11): warning C4024: 'printf': 형식 및 실제 매개 변수 1의 형식이 서로 다릅니다.
+  no_python.vcxproj -> C:\Python\Euler\no_python\Debug\no_python.exe

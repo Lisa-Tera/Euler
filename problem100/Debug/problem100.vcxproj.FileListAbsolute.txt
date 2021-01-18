@@ -1,0 +1,2 @@
+C:\Python\Euler\problem100\Debug\problem100.exe
+C:\Python\Euler\problem100\Debug\problem100.pdb
