@@ -11,10 +11,8 @@ Python을 사용하여 다양한 수학적 문제를 해결하는 알고리즘�
 📂 project-euler
  ├── 📜 README.md
  ├── 📂 solutions
- │    ├── problem_001.py
- │    ├── problem_002.py
- │    ├── problem_010.py
+ │    ├── problem1.py
+ │    ├── problem2.py
+ │    ├── problem10.py
  │    ├── ...
- ├── 📂 docs
- │    ├── 문제 설명 및 풀이.md
- │    ├── 수학적 접근.md
+
